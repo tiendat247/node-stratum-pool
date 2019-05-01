@@ -36,6 +36,7 @@
         "equihashverify": "git+https://github.com/astrohackerx/equihashverify.git",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git#3606036e3a44aa46e5a16cc6d7beea8e49dec8ef",
         "promise": "^8.0.2",
+        "verushash": "git+https://github.com/VerusCoin/verushash-node.git"
           },
     "engines": {
         "node": ">=8"
